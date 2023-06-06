@@ -1,5 +1,6 @@
-# **autotranslate:** Videos Transcription and Translation with Faster Whisper and ChatGPT
+# **autotranslate** 
 
+Videos Transcription and Translation with Faster Whisper and ChatGPT
 
 [![notebook shield](https://img.shields.io/static/v1?label=&message=Notebook&color=blue&style=for-the-badge&logo=googlecolab&link=https://colab.research.google.com/github/lewangdev/autotranslate/blob/main/autotranslate.ipynb)](https://colab.research.google.com/github/lewangdev/autotranslate/blob/main/autotranslate.ipynb)
 [![repository shield](https://img.shields.io/static/v1?label=&message=Repository&color=blue&style=for-the-badge&logo=github&link=https://github.com/lewangdev/autotranslate)](https://github.com/lewangdev/autotranslate)
